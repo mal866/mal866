@@ -1,9 +1,10 @@
-# Malaika Khan
+# Hi, I'm Malaika Khan
 ###### Computer Science BSc @ University of Surrey
-- Predicted 2:1
-- Passionate about Software Engineering, Machine Learning, AI
-- Vice President of Pakistani Society
-- Currently learning Django and React.js
+- Predicted 2:1, Including modules such as Computer Security (73%), Parallel Computing (72%), Artificial Intelligence (67%)
+- Interested in Software Engineering and FinTech
+- Former Vice President of Pakistani Society; co-managing a committee of 7 and organising 12 successful cultural and social events throughout the academic year.
+- Currently learning more about React.js, full-stack development, REST APIs and experimenting with SQL
+- Seeking 2027 Graduate Opportunities
 ---
 
 ## 📊 GitHub Stats
