@@ -1,4 +1,4 @@
-# Hi, I'm Malaika Khan
+# Hi, I'm Malaika Khan 🌸
 ###### Computer Science BSc @ University of Surrey
 - **Predicted 2:1** - Including modules such as Computer Security (73%), Parallel Computing (72%), Artificial Intelligence (67%)
 - Interested in **Software Engineering and FinTech**
