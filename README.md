@@ -1,7 +1,7 @@
 # Hi, I'm Malaika Khan 🌸
 ###### `Computer Science BSc @ University of Surrey`
 
-## About me 🌸
+## 💁‍♀️ About me 
 - **Predicted 2:1** - Including modules such as Computer Security (73%), Parallel Computing (72%), Artificial Intelligence (67%)
 - Interested in **Software Engineering and FinTech**
 - Former **Vice President** of Pakistani Society; co-managing a committee of 7 and organising 12 successful cultural and social events throughout the academic year.
@@ -24,6 +24,13 @@
 <!-- ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mal866&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 -->
+---
+### 💡 Projects
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=mal866&repo=mal866%2FProject-Manager&theme=radical" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=mal866&repo=ananyachennadi%2Fmindmatch-chatbot&theme=radical" />
+</p>
 
 ---
 
