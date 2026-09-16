@@ -1,5 +1,7 @@
 # Hi, I'm Malaika Khan 🌸
 ###### `Computer Science BSc @ University of Surrey`
+
+## About me 🌸
 - **Predicted 2:1** - Including modules such as Computer Security (73%), Parallel Computing (72%), Artificial Intelligence (67%)
 - Interested in **Software Engineering and FinTech**
 - Former **Vice President** of Pakistani Society; co-managing a committee of 7 and organising 12 successful cultural and social events throughout the academic year.
@@ -10,9 +12,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mal866&theme=midnight-purple" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mal866&theme=radical" alt="GitHub Streak" /> 
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=midnight-purple" /> <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=radical" /> <br/>
 </p>
 
 <!-- 1.  <img src="https://github-readme-stats.vercel.app/api?username=mal866&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="margin-right: 35px;" /> -->
