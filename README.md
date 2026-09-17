@@ -27,11 +27,15 @@
 ---
 ### 💡 Projects
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=mal866&repo=mal866%2FProject-Manager&theme=radical" />
+  <a href="https://github.com/mal866/Project-Manager">
+  <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=mal866&repo=mal866%2FProject-Manager&theme=radical&v=2" /> 
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ananyachennadi/mindmatch-chatbot">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=mal866&repo=ananyachennadi%2Fmindmatch-chatbot&theme=radical" />
+  </a>
 </p>
-
+<!-- &v-2 at end of project1  is to force a refresh. can change to &v=3 later if needed 😛-->
 ---
 
 ### 💻 Tech Stack
