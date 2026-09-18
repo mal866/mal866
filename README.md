@@ -12,18 +12,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mal866&theme=radical" alt="GitHub Streak" /> 
+  <img src="https://streak-stats.demolab.com/?user=mal866&theme=radical" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=radical" /> <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=radical" />
 </p>
 
 <!-- 1.  <img src="https://github-readme-stats.vercel.app/api?username=mal866&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="margin-right: 35px;" /> -->
 <!-- 2.  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=midnight-purple) <br/> -->
 
-
-<!-- ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mal866&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
--->
 ---
 ### 💡 Projects
 <p align="center">
