@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mal866&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mal866&theme=radical&starting_year=2025" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mal866&layout=compact&langs_count=4&theme=radical" />
 </p>
